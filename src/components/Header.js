@@ -8,7 +8,7 @@ const Header = () => {
       <section>
         <div className="banner">
           <h2>Little Lemon</h2>
-          <h3>Chicago</h3>
+          <h3>New Delhi</h3>
           <p>
             We are a family owned Mediterraneran restaurant, focused on
             traditional recipes servred with a modern twist.

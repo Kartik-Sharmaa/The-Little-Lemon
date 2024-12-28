@@ -23,8 +23,8 @@ const Footer = () => {
             <div>
                 <h3>Contact</h3>
             <ul>
-            <li>Address: <br/> 123 Town Street, Chicago</li>
-                <li>Phone: <br/> +00 123 456 789</li>
+            <li>Address: <br/> New Delhi, India</li>
+                <li>Phone: <br/> +00 00000000</li>
                 <li>Email: <br/> little@lemon.com</li>
             </ul>
             </div>
