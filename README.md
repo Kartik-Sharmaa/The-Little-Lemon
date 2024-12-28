@@ -1,4 +1,4 @@
-#Little Lemon website using React#
+# Little Lemon website using React
 
 This is the final project for Front-end Developer Professional Certificate course on Coursera.
 
